@@ -31,13 +31,15 @@ h3 {
 	font-size: 125%;
 } 
 
-main {
+.container-fluid {
 	background-image: url(../img/ricepaper_v3.png);
 	opacity: 0.9;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
-
+.col-md-6 {
+	padding-left: 0px;
+}
 a:link, 
 a:visited {
 	text-decoration: none;
